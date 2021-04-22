@@ -1,0 +1,12 @@
+C:\Users\Catrinel\source\repos\yees\yees\bin\Debug\yees.exe.config
+C:\Users\Catrinel\source\repos\yees\yees\bin\Debug\yees.exe
+C:\Users\Catrinel\source\repos\yees\yees\bin\Debug\yees.pdb
+C:\Users\Catrinel\source\repos\yees\yees\obj\Debug\yees.csprojAssemblyReference.cache
+C:\Users\Catrinel\source\repos\yees\yees\obj\Debug\yees.Form1.resources
+C:\Users\Catrinel\source\repos\yees\yees\obj\Debug\yees.Form2.resources
+C:\Users\Catrinel\source\repos\yees\yees\obj\Debug\yees.Properties.Resources.resources
+C:\Users\Catrinel\source\repos\yees\yees\obj\Debug\yees.csproj.GenerateResource.cache
+C:\Users\Catrinel\source\repos\yees\yees\obj\Debug\yees.csproj.CoreCompileInputs.cache
+C:\Users\Catrinel\source\repos\yees\yees\obj\Debug\yees.exe
+C:\Users\Catrinel\source\repos\yees\yees\obj\Debug\yees.pdb
+C:\Users\Catrinel\source\repos\yees\yees\obj\Debug\yees.Form3.resources
